@@ -1,7 +1,6 @@
 {
   "name": "minimercado-online",
   "private": true,
-  "homepage": "https://bejosores.github.io/minimercado-online",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
